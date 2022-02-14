@@ -1,4 +1,4 @@
-# -IPC1-Practica1_201901815
+No sirve
 Práctica IPC, Pacman
 Ivan de Jesús Pisquiy Escobar
 201901815
